@@ -11,11 +11,11 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode *p=head,*q=NULL,*r=NULL;//USING THE CONCEPT OF SLIDING POINTERS
-        while(p){
+        ListNode *q=NULL,*r=NULL;//USING THE CONCEPT OF SLIDING POINTERS
+        while(head){
             r=q;
-            q=p;
-            p=p->next;
+            q=head;
+            head=head->next;
             q->next=r;
         }
         head = q;
