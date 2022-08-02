@@ -2,7 +2,7 @@ class MyQueue {
     stack<int>a,b;
 public:
     MyQueue() {
-       a=b=stack<int>();
+      
     }
     
     void push(int x) {
@@ -10,17 +10,7 @@ public:
     }
     
     int pop() {
-        int x=-1;
-        while(b.empty()){
-            if(a.empty())return x;
-            else{
-                while(!a.empty()){
-                    b.push(a.top());
-                    a.pop();
-                }
-            }
-        }
-         x=b.top();
+       int x= peek();
         b.pop();
         return x;
     }
