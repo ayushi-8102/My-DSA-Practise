@@ -1,2 +1,2 @@
 # Leetcode Grind 🔥
-Collection of LeetCode questions to ace the coding interview
+Ek dhang ki internship toh mai bhi deserve karti hun :):
