@@ -1,4 +1,4 @@
-### Link : 
+### Link : https://leetcode.com/problems/missing-number/description/
 ### Level : Easy
 
 ### Problem Statement :
