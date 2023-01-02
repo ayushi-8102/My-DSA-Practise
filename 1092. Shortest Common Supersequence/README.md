@@ -1,3 +1,13 @@
+### Note :
+~~~
+Excellent question!
+Combination of three topics under LCS !
+1> LCS
+2> Printing LCS
+3> SCS
+A must Revise!
+~~~
+
 ### Link : https://leetcode.com/problems/shortest-common-supersequence/description/
 ### Level : Hard
 
