@@ -1,3 +1,4 @@
+### Level : Medium
 ### Problem Statement :
 Om has a string S of length N. But Om being perfectionist, doesn't likes the string. He decides to do perform M operations on the string to see if final string generated is perfect or not.
 
