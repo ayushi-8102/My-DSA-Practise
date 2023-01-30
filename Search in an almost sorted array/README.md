@@ -1,3 +1,5 @@
+## Link : https://www.geeksforgeeks.org/search-almost-sorted-array/
+## Level : Medium
 ## Problem Statement :
 Given a sorted array arr[] of size N, some elements of array are moved to either of the adjacent positions, i.e., arr[i] may be present at arr[i+1] or arr[i-1] i.e. arr[i] can only be swapped with either arr[i+1] or arr[i-1]. The task is to search for an element in this array.
 
