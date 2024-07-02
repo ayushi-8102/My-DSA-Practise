@@ -11,10 +11,8 @@ public:
             i++;
             j++;
             }
-            else{
-                if(nums1[i]>nums2[j])j++;
-                else if (nums1[i]<nums2[j])i++;
-            }
+             else if(nums1[i]>nums2[j])j++;
+             else i++;
         }
         return ans;
     }
